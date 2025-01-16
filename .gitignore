@@ -1,0 +1,4 @@
+test2.txt
+*.exe
+*.log
+*>tmp
